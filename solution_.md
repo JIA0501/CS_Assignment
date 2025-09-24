@@ -12,7 +12,6 @@
 ![Correlation plot](plot.png)
 
 ### Interpretation
-- The figure shows the relationship between two variables in the dataset.  
-- The fitted line summarizes the linear trend.  
-- The correlation coefficient indicates the strength of association.  
-- Remember: correlation does not imply causation.  
+- The figure shows the relationship between number of University graduates and NL beer consumption in the dataset.  
+- The figure shows that the number of beet consumption increase with the increasement of University graduates.
+- And, particularly, the number of beet consumption dramatically increase when the number of University graduates more than 250*1000
